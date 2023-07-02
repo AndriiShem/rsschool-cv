@@ -2,7 +2,7 @@
 
   ## Contacts
     * Location: Poland, Kalisz
-    * Telephone number: +48 452 802 831
+    * Telephone number: +48 452802831
     * E-mail: shemetiuk.andrii@gmail.com
     * GitHub: AndriiShem
     
