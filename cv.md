@@ -14,6 +14,7 @@
   ## Skills
     * HTML Basic
     * CSS Basic
+    * teamwork
 
   ## Code examples
     function sum(a, b) {
