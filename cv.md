@@ -1,7 +1,7 @@
 # Andrii Shemetiuk
 
   ## Contacts
-    * Location: Polish, Kalisz
+    * Location: Poland, Kalisz
     * Telephone number: +48 452 802 831
     * E-mail: shemetiuk.andrii@gmail.com
     * GitHub: AndriiShem
@@ -9,7 +9,7 @@
   ## About me
     I worked as a system administrator in the factory DSS. 
     I like sport, especialy  play in the football. 
-    Therefore, I can and know how to work in a team
+    Therefore, I can and know how to work in a team.
     
   ## Skills
     * HTML Basic
