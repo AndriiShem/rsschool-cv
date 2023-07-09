@@ -1,3 +1,26 @@
+
 h1{
     color: green;
 }
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .nav-item{
+    padding: 0 10px;
+  }
