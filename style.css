@@ -1,5 +1,5 @@
 
-h1{
+.name{
     color: green;
 }
 body{
@@ -8,19 +8,33 @@ body{
     flex-direction: column;
     justify-content: space-between;
 }
-
 .container {
-    max-width: 1440px;
-    margin: 0 auto;
-  }
-  .nav-list {
-    list-style: none;
-    padding: 0 20px;
-    line-height: 50px;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-  }
-  .nav-item{
-    padding: 0 10px;
-  }
+  background-color: aqua;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.nav-list {
+  list-style: none;
+  padding: 0 20px;
+  line-height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.main{
+  background-color: azure;
+  width: 800px;
+  margin: 0  auto 0;
+}
+.header{
+  margin: 10px 0 -16px;
+}
+.footer_links {
+  padding: 0 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
